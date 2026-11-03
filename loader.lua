@@ -1,7 +1,7 @@
 -- ==========================================================
 -- AUTO DUNGEON LOADER
 -- ==========================================================
-local SCRIPT_URL = "https://raw.githubusercontent.com/rfsb-ui/PLgameautomations/main/scripts/dungeon_v2.8.56.lua"
+local SCRIPT_URL = "https://https://raw.githubusercontent.com/rfsb-ui/PLgameautomations/refs/heads/main/scripts/dgntools_v1.24.85.lua"
 
 print("Fetching latest Auto Dungeon script...")
 
